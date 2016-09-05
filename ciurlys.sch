@@ -28,7 +28,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:garnys-cache
+LIBS:ciurlys-cache
 EELAYER 25 0
 EELAYER END
 $Descr A3 16535 11693
@@ -588,10 +588,11 @@ Wire Wire Line
 Wire Wire Line
 	4300 5050 5300 5050
 Wire Wire Line
-	4300 4000 4300 4600
+	4300 3500 4300 4600
 Wire Wire Line
 	4300 5050 4300 5000
 Connection ~ 5000 5050
 Wire Wire Line
-	4300 4000 5000 4000
+	4300 3500 5000 3500
+Connection ~ 5000 3500
 $EndSCHEMATC

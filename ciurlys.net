@@ -1,6 +1,6 @@
 (export (version D)
   (design
-    (source /home/miceuz/Xaltura/garnys/garnys.sch)
+    (source /home/miceuz/Xaltura/ciurlys/ciurlys.sch)
     (date "Fri 19 Aug 2016 03:26:17 PM EEST")
     (tool "Eeschema 4.1.0-alpha+201608181240+7066~46~ubuntu14.04.1-product")
     (sheet (number 1) (name /) (tstamps /)
@@ -9,7 +9,7 @@
         (company "Albertas Mickėnas")
         (rev)
         (date)
-        (source garnys.sch)
+        (source ciurlys.sch)
         (comment (number 1) (value ""))
         (comment (number 2) (value ""))
         (comment (number 3) (value ""))
