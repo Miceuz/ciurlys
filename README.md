@@ -14,7 +14,7 @@ implements a simple protocol that allows to daisy-chain the segmens.
 
 The main callenges were to fight the inductivity of the cable and dampen the ringing on power lines - zeners were enough 
 to avoid dangerously high and negative spikes. The output transistor has enough of umph to survive a dead short while 
-polyfuse catches up. Input protection transils were not implemented to keep the cost low, I got to rely on potection diodes
+polyfuse catches up. Input protection transils were not implemented to keep the cost low, I got to rely on the protection diodes
 inside the attiny.
 
 ![](https://cdn.rawgit.com/Miceuz/ciurlys/master/media/ciurlys.svg)
@@ -60,6 +60,6 @@ A video of the installation being set up:
 
 [![Apus Apus - setup](http://img.youtube.com/vi/SOXjC1DidxA/0.jpg)](http://www.youtube.com/watch?v=SOXjC1DidxA?rel=0)
 
-A vide of the installation running at night:
+A video of the installation running at night:
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/rREeh75hglU/0.jpg)](http://www.youtube.com/watch?v=rREeh75hglU?rel=0)
